@@ -1,2 +1,0 @@
-# GK
-Grafika Komputerowa
